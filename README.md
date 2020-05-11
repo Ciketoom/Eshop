@@ -6,7 +6,7 @@ server是express框架下的服务端，即是后端项目
 后续上线会把链接放上来的
 前后端项目下载后都需要初始化一下
 # 前端链接首页为：localhost:8989
-# 后端链接首页为：localhost:8989/#/buserhome
+# 后端链接首页为：localhost:8989/#/bhome
 
 # easyshop
 
