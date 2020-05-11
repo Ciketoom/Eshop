@@ -675,7 +675,7 @@ export default {
 									span{
 										background: #000000;
 										padding: 3px 8px;
-										margin: 0 15px;
+										margin: 0 10px;
 										border-radius: 14px;
 										&:hover{
 											background: #FA6F57;
