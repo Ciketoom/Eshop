@@ -1,7 +1,8 @@
 # Eshop-
 vue+express+mongodb
-Eshop文件夹是前端内容，commporment中的backstage是后端数据管理系统的页面
+Eshop文件夹是前端内容，comporment中的backstage是后端数据管理系统的页面
 server是express框架下的服务端，即是后端项目
+json-eshop是相关json数据
 数据库为mongodb，请先确保电脑上有mongodb环境
 后续上线会把链接放上来的
 前后端项目下载后都需要初始化一下
