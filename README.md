@@ -3,6 +3,8 @@ vue+express+mongodb
 Eshop文件夹是前端内容，commporment中的backstage是后端数据管理系统的页面
 server是express框架下的服务端，即是后端项目
 前后端项目下载后都需要初始化一下
+前端链接首页为：localhost:8989
+后端链接首页为：localhost:8989/#/buserhome
 # easyshop
 
 > A Vue.js project
