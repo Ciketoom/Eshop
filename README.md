@@ -17,9 +17,11 @@ json-eshop是相关json数据
 订单模块的具体功能有: 1.订单的搜索、筛选与删除。 2.订单的状态展示和订单详情展示。 3.对订单中商品进行售后评价。
 ![image](https://github.com/Ciketoom/eshop-pic/blob/master/eshop.gif)
 # 后台主要功能
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173130.png" width="450" height="280"/><img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/bgood.gif" width="450" height="280"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173130.png" width="450" height="280"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/bgood.gif" width="450" height="280"/>
 商品管理： 商品的添加、删除、搜索、修改
-<img src="ttps://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173154.png" width="450" height="280"/><img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173130.png" width="450" height="280"/>
+<img src="ttps://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173154.png" width="450" height="280"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173130.png" width="450" height="280"/>
 用户管理： 用户的修改、删除  +  订单管理： 订单的搜索、修改、删除
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/borderuser.gif" width="450" height="280"/>
 
