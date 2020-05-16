@@ -19,6 +19,7 @@ json-eshop是相关json数据
 # 后台主要功能
 ## 商品管理： 商品的添加、删除、搜索、修改
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/bgood.gif" width="700" height="320"/>
+
 ## 用户管理： 用户的修改、删除  +  订单管理： 订单的搜索、修改、删除
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/borderuser.gif" width="700" height="320"/>
 
