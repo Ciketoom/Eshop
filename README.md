@@ -17,7 +17,7 @@ json-eshop是相关json数据
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/search.gif" width="700" height="400"/>
 
 ## 购物车模块的具体功能有: 1.购物车添加商品和删除商品  2.购物车中对购物车商品列表的修改  3.购物车中实现对商品的结算
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/cart.gif" width="700" height="4000"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/cart.gif" width="700" height="400"/>
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/details.gif" width="700" height="400"/>
 
 ## 用户中心模块的具体功能有: 1.用户基本信息的修改  2.用户的登录和注册  3.用户对商品收藏和个人地址的管理
