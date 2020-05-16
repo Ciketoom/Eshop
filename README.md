@@ -12,19 +12,20 @@ json-eshop是相关json数据
 
 # 前台主要功能
 ## 商品模块的具体功能有: 1.商品的分类和搜索  2.商品的详情、评价、点赞和收藏  3.商品列表展示和筛选
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/home.gif" width="700" height="360"/>
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/list.gif" width="700" height="360"/>
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/search.gif" width="700" height="360"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/home.gif" width="700" height="400"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/list.gif" width="700" height="400"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/search.gif" width="700" height="400"/>
 
 ## 购物车模块的具体功能有: 1.购物车添加商品和删除商品  2.购物车中对购物车商品列表的修改  3.购物车中实现对商品的结算
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/cart.gif" width="700" height="360"/>
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/details.gif" width="700" height="360"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/cart.gif" width="700" height="4000"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/details.gif" width="700" height="400"/>
 
 ## 用户中心模块的具体功能有: 1.用户基本信息的修改  2.用户的登录和注册  3.用户对商品收藏和个人地址的管理
 
 ## 订单模块的具体功能有: 1.订单的搜索、筛选与删除  2.订单的状态展示和订单详情展示  3.对订单中商品进行售后评价
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/userhome.gif" width="700" height="360"/>
-<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/order.gif" width="700" height="360"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/userhome.gif" width="700" height="400"/>
+<img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/order.gif" width="700" height="400"/>
+
 # 后台主要功能
 ## 商品管理： 商品的添加、删除、搜索、修改
 <img src="https://github.com/Ciketoom/eshop-pic/blob/master/eshop/bgood.gif" width="700" height="360"/>
