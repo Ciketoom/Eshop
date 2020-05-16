@@ -17,11 +17,11 @@ json-eshop是相关json数据
 订单模块的具体功能有: 1.订单的搜索、筛选与删除。 2.订单的状态展示和订单详情展示。 3.对订单中商品进行售后评价。
 ![image](https://github.com/Ciketoom/eshop-pic/blob/master/eshop.gif)
 # 后台主要功能
-![image](https://github.com/Ciketoom/eshop-pic/blob/master/2020-05-11_173057.png)
+![image](https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173057.png)
 商品管理： 商品的添加、删除、搜索、修改
-![image](https://github.com/Ciketoom/eshop-pic/blob/master/2020-05-11_173130.png)
+![image](https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173130.png)
 用户管理： 用户的修改、删除
-![image](https://github.com/Ciketoom/eshop-pic/blob/master/2020-05-11_173154.png)
+![image](https://github.com/Ciketoom/eshop-pic/blob/master/eshop/2020-05-11_173154.png)
 订单管理： 订单的搜索、修改、删除
 
 # easyshop
